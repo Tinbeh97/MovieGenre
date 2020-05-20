@@ -2,7 +2,7 @@
 
 **Please refer to (paper) for detail explanation**
 
-(/conv.pdf)
+(https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
 
 ## Prerequisites
 
