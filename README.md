@@ -2,8 +2,7 @@
 
 **Please refer to (paper) for detail explanation**
 
-![Image of network]
-(https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
+![Image of network](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
 
 ## Prerequisites
 
