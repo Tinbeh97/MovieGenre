@@ -3,7 +3,6 @@
 **Please refer to (paper) for detail explanation**
 
 ![GitHub Logo](/conv.pdf)
-Format: ![Alt Text](url)
 
 ## Prerequisites
 
