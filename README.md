@@ -1,6 +1,6 @@
 # MovieGenre
 
-** Please refer to (paper) for detail explanation **
+**Please refer to (paper) for detail explanation**
 
 
 
