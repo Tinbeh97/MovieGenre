@@ -4,6 +4,8 @@
 
 ![Image of network](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
 
+![alt text](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
+
 ## Prerequisites
 
 The library needed to run these codes is: keras, librosa, sklearn, pickel, itertools, sqlite3, subprocess, os, and pysptk.
