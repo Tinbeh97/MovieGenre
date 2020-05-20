@@ -2,7 +2,7 @@
 
 **Please refer to (paper) for detail explanation**
 
-![GitHub Logo](/conv.pdf)
+(/conv.pdf)
 
 ## Prerequisites
 
