@@ -4,7 +4,6 @@
 
 ![Image of network](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.png)
 
-![alt text](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.png)
 
 ## Prerequisites
 
