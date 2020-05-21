@@ -4,7 +4,13 @@
 
 ![Image of network](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
 
-![alt text](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf?raw=true)
+![alt text](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf)
+
+<object data="https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Tinbeh97/MovieGenre/blob/master/conv.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Prerequisites
 
