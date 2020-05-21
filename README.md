@@ -1,4 +1,4 @@
-# MovieGenre
+# Movie's genre classification
 
 **Please refer to (paper) for detail explanation**
 
