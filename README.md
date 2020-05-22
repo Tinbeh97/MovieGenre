@@ -33,7 +33,7 @@ The error_epoch.py can be used to plot validation and training loss per epoch.
 
 For extracting audio feature go to [training/audio](./training/audio) folder. Run mp3maker.py for deriving background audio of trailers. Then run audio.py for extracting audio features. The location of data and storage should be determined by user. 
 
-For detecting final genre based on both acoustic and frames features run svm_CNN1D.py in [training\audio+video](.\training\audio+video).
+For detecting final genre based on both acoustic and frames features run svm_CNN1D.py in [training/audio+video](./training/audio+video).
 
 ### testing
 
@@ -46,3 +46,4 @@ If you find these codes usefull please cite following paper:
 
 ## Acknowledgments
 
+LMTD9 data and codes to derive testing, training, and validation is used from https://github.com/jwehrmann/lmtd/tree/master/lmtd9.
