@@ -38,6 +38,7 @@ For detecting final genre based on both acoustic and frames features run svm_CNN
 ### Testing
 
 
+
 ## Citation
 
 If you find these codes usefull please cite following paper:
@@ -46,4 +47,4 @@ If you find these codes usefull please cite following paper:
 
 ## Acknowledgments
 
-LMTD9 data and codes to derive testing, training, and validation is used from https://github.com/jwehrmann/lmtd/tree/master/lmtd9.
+LMTD9 data and codes to derive testing, training, and validation data is used from https://github.com/jwehrmann/lmtd/tree/master/lmtd9.
