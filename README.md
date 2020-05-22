@@ -17,11 +17,17 @@ The dataset can be collected from the https://github.com/jwehrmann/lmtd/tree/mas
 
 ## Implementation
 
+In all codes the dictionary or data location is commented and should be defined by the user.  
+
 ### training
 
 #### visual based
 
 #### movie's audio + frames
+
+For extracting audio feature go to /training/audio folder. Run mp3maker.py for deriving background audio of trailers. Then run audio.py for extracting audio features. The location of data and storage should be determined by user. 
+
+
 
 ### testing
 
