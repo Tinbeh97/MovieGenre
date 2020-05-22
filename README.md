@@ -15,13 +15,22 @@ The libraries that are needed: keras, librosa, sklearn, pickel, itertools, sqlit
 
 The dataset can be collected from the https://github.com/jwehrmann/lmtd/tree/master/lmtd9.
 
-## Running codes
+## Implementation
 
-### visual based
+### training
 
-### movie's audio + frames
+#### visual based
+
+#### movie's audio + frames
+
+### testing
+
 
 ## Citation
+
+If you find these codes usefull please cite following paper:
+
+
 
 ## Acknowledgments
 
