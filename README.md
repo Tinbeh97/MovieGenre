@@ -9,7 +9,7 @@ In this project, both acoustic and visual feature of the movie is used to classi
 
 All codes are written for Python 2.7+ (https://www.python.org/) on Linux platform. 
 
-The libraries that are needed: keras, librosa, sklearn, pickel, itertools, sqlite3, subprocess, os, matplotlib, and pysptk.
+The libraries that are needed: keras, librosa, sklearn, pickel, itertools, sqlite3, subprocess, os, matplotlib, sys, _pickle, and pysptk.
 
 ## Dataset
 
@@ -23,9 +23,13 @@ In all codes the dictionary or data location is commented and should be defined 
 
 #### visual based
 
+
+
+The error_epoch.py can be used to plot validation and training loss per epoch.
+
 #### movie's audio + frames
 
-For extracting audio feature go to [audio](./training/audio) folder. Run mp3maker.py for deriving background audio of trailers. Then run audio.py for extracting audio features. The location of data and storage should be determined by user. 
+For extracting audio feature go to [training/audio](./training/audio) folder. Run mp3maker.py for deriving background audio of trailers. Then run audio.py for extracting audio features. The location of data and storage should be determined by user. 
 
 
 
