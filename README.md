@@ -5,6 +5,8 @@
 In this project, both acoustic and visual feature of the movie is used to classify the multi-label movie's genre. The network defined for genre classification based on frames is shown below. The final class is decided by feeding the fusion of audio and visual features into the SVM model.  
 ![Image of network](https://github.com/Tinbeh97/MovieGenre/blob/master/conv.png)
 
+These codes are written for both 9 and 4 genre dataset. Action, adventure, comedy, crime, drama, horror, romance, sci-fi, and thriller genres are considered for 9 genre data. In 4 genre classification, action, drama, horror, and romance are separated from 9 class dataset.
+
 ## Requirements
 
 All codes are written for Python 2.7+ (https://www.python.org/) on Linux platform. 
