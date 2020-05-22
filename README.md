@@ -23,7 +23,9 @@ In all codes the dictionary or data location is commented and should be defined 
 
 #### visual based
 
+If you want to extract Vgg or Resnet high-level features from videos go to [training/frames_features](./training/frames_features) folder and run high_level_video.py. The network (in this case vgg16) should be saved on Keras beforehand. Using GPU for running this code is highly recommended.
 
+LSTM and CNN1D model that are defined on the paper are saved on [training/video](./training/video). You can implement each network by running lstm_model.py and CNN1D_model.py, respectively.
 
 The error_epoch.py can be used to plot validation and training loss per epoch.
 
