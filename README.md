@@ -9,7 +9,7 @@ These codes are written for both 9 and 4 genre dataset. Action, adventure, comed
 
 ## Requirements
 
-All codes are written for Python 2.7+ (https://www.python.org/) on Linux platform. 
+All codes are written for Python 3 (https://www.python.org/) on Linux platform. 
 
 The libraries that are needed: keras, librosa, sklearn, pickel, itertools, sqlite3, subprocess, os, matplotlib, sys, _pickle, and pysptk.
 
