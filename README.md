@@ -39,7 +39,9 @@ For detecting final genre based on both acoustic and frames features run svm_CNN
 
 ### Testing
 
+For testing the method you should put your audio features in [testing/audio_features](./testing/audio_features) folder. Also, [testing/visual_weight](./testing/visual_weight) and [testing/svm_result](./testing/svm_result) folders are where the visual model weights and audio-visual SVM network is saved. You can also change directory of them in testing.py if prefered to.
 
+Run [testing.py](./testing) to test the model performance. You can decide whether you want 4 or 9 genre classification by changing the num_of_classes value.
 
 ## Citation
 
