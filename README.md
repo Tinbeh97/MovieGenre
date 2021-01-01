@@ -45,7 +45,7 @@ Run [testing.py](./testing) to test the model performance. You can decide whethe
 
 ## Citation
 
-If you find this repository usefull, please consider citing following paper:
+If you find this repository useful, please consider citing following paper:
 
 
 
